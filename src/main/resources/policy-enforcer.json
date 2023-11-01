@@ -1,0 +1,8 @@
+{
+  "realm": "hello-world-authz",
+  "auth-server-url": "http://localhost:8081",
+  "resource": "my-resource-server",
+  "credentials": {
+    "secret": "FEfzIhyqQdpK1Sg9z9laZhqhzeY3Op2r"
+  }
+}
